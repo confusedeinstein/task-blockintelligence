@@ -39,8 +39,8 @@
 
 ## Figma Design
 
-![Figma](https://www.figma.com/design/Dp1KFCMWP8xt6GWHWDlcbU/task-blockintelligence?node-id=0-1&t=R6YpxcbKSwgLC223-1)
+https://www.figma.com/design/Dp1KFCMWP8xt6GWHWDlcbU/task-blockintelligence?node-id=0-1&t=R6YpxcbKSwgLC223-1
 
 ## Application UI
 
-![Application Screenshot](https://photos.google.com/u/1/photo/AF1QipPhM-zn34I3lCxkl9FqMdmZPxidgep3RrXE48xr)
+https://photos.google.com/u/1/photo/AF1QipPhM-zn34I3lCxkl9FqMdmZPxidgep3RrXE48xr
