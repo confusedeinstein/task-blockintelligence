@@ -63,6 +63,7 @@ export default function Home() {
       console.log(response);
 
       toast.success("Data submitted successfully!");
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
     } catch (error: any) {
       if (
         error.response?.data?.message ===
